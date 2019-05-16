@@ -1,16 +1,8 @@
-# JOKES
+# GROCTEL'S JOKES REPO
 
-Welcome to Groctel's glorious international joke repo. Add any jokes you like here.
-
-## ADDING JOKES:
-
-Write a short title for your joke and add it at the top. There are a few simple rules to make this enjoyable for everybody:
-
-- Don't submit offensive, sexual or dark humour jokes.
-- Avoid context as much as possible. Leave the joke's essence so that readers can complete it the way they want.
-- Keep it as short as possible.
-- Have fun!
+- **EN:** Welcome to Groctel's glorious international jokes repo. Add any jokes you like! Read the English rules [here](https://github.com/Groctel/Jokes/blob/master/English.md)
+- **ES:** Bienvenido al glorioso repo internacional de chistes de Groctel. ¡Añade cualquier chiste que te guste! Lee las normas en español [aquí](https://github.com/Groctel/Jokes/blob/master/Espa%C3%B1ol.md).
 
 ## LANGUAGE SUPPORT:
 
-As of now, only Spanish(`Español.md`) is available. It's my mother tonge heheh. Add any new languages as a file named with the language's name in its own language.
+As of now, only Spanish(`Español.md`) is available, even though `English.md` exists. It's my mother tonge heheh. Add any new languages as a file named with the language's name in its own language.

@@ -1,3 +1,45 @@
+# CHISTES - ESPAÑOL
+
+## CÓMO AÑADIR CHISTES:
+
+Escribe un título corto para tu chiste y añádelo encima de los demás. Sigue unas pocas normas sencillitas para que todos nos lo pasemos bien:
+- No mandes chistes ofensivos, sexuales o de humor negro.
+  - El lenguaje soez está permitido, pero para dar énfasis o en expresiones conocidas y sin pasarse.
+- Evita dar contexto tanto como puedas. Deja sólo la esencia del chiste para que los lectores puedan completarlo como quieran.
+  - Si el chiste es muy técnico, haz que el título ofrezca el contexto.
+- Haz el chiste lo más corto posible. Deja sólo lo necesario.
+- **¡Diviértete!**
+
+# LOS CHISTES EMPIEZAN AQUÍ:
+
+## EL INFORMÁTICO AMARGADO
+
+- **P:** ¿Por qué la gente me trata como un objeto?
+- **R:** Porque soy un tipo con clase.
+
+## EL CUADRO BARROCO
+
+- Me encanta el cuadro que tienes en esa pared.
+- Es un Murillo.
+- Bueno vale, el cuadro que tienes en ese murillo.
+
+## LAS APUESTAS DEL ESTADO
+
+- Niño, echa la Primitiva.
+- ¡Abuela, a la puta calle!
+
+## EL PIZZERO RICO
+
+- Pizzería La Italiana, ¿dígame?
+- ¿Tiene familiares?
+- Ninguno, fallecieron todos en un accidente.
+- Vaya, ¿pasta tiene?
+- Ya te digo, ¡lo heredé todo!
+
+## CURSO DE MANIPULADOR DE ALIMENTOS
+
+- Oye, lechuga, ¿sabes lo que va diciendo el maíz sobre tu madre?
+
 ## NÚMEROS Y COLORES
 
 - Doctor, vengo porque confundo los números con los colores.
@@ -35,12 +77,12 @@
 - Doctor, mi marido ha tenido una hemiplejia. ¿Qué hago?
 - Mírelo por el lado bueno.
 
-## EL TUMBADO DEL ENTIERRO
+## EL TUMBADO DEL ENTIERRO:
 
-Un hombre va a un entierro y le dice a la viuda:
+En un entierro:
 
 - Lo siento.
-- Ya es igual, déjelo tumbado.
+- No, no. Déjelo tumbado.
 
 ## EL ESTANQUE DE LOS MUERTOS
 
@@ -50,26 +92,28 @@ Un hombre va a un entierro y le dice a la viuda:
 
 ## LA BOMBILLA EMBARAZADA
 
-¿Por qué la bombilla tiene panza? Porque va dar a luz.
+- **P:** ¿Por qué la bombilla tiene panza?
+
+- **R: **Porque va dar a luz.
 
 ## EL JARDINERO DESEMPLEADO
 
 En una agencia de empleo:
 
-- Hola, ¿tiene algún trabajo para mí?
-- Hmmm, puede ser. ¿Le interesa de jardinero?
-- ¿Dejar dinero? ¡Pero si yo busco que me lo den!
+- ¿Tiene algún trabajo para mí?
+- Puede ser. ¿Le interesa de jardinero?
+- ¿Dejar dinero? ¡Pero si yo quiero que me lo den!
 
 ## EL ENCHUFE DE TODA LA VIDA
 
 *Señalar un enchufe*
 
-- Un enchufe normal... y corriente
+- Un enchufe normal... y corriente.
 
 ## EL ANÁLISIS DE HECES
 
-- Soy nuevo en el laboratorio ¿Me ayudas con este análisis de heces?
-- Eso es pan comido.
+- Soy nuevo en el laboratorio. ¿Me ayudas con este análisis de heces?
+- Claro, es pan comido.
 - Joder, qué vista tienes. 
 
 ## BADUMTSS
@@ -80,13 +124,13 @@ Un chico entra a una tienda de música y compra una batería. ***BaDumTss***
 
 - ¿Qué haces llevándote a ese hombre invidente?
 - Es que hacía mucho que no me pillaba un buen ciego.
-- JAJAJ lo que hay que ver.
+- Lo que hay que ver.
 - Díselo a él.
 
 ## EL JUICIO DE LOS CANIS
 
-¿Dónde van los canis cuando se les denuncian?
-Al tribunal ShUrPrheMoh
+- **P:** ¿Dónde van los canis cuando se les denuncian?
+- **R:** Al tribunal ShUrPrheMoh
 
 ## ¿SUSPIRÁIS?
 
@@ -95,7 +139,8 @@ Al tribunal ShUrPrheMoh
 
 ## EL MUDO BAILARÍN
 
-- ¿Qué hace un mudo bailando en el salón? -La mudanza
+- **P:** ¿Qué hace un mudo bailando en el salón?
+- **R:** La mudanza
 
 ## EL PANADERO RICO
 
@@ -109,17 +154,17 @@ Melchor, Gaspar, Basaltar y se cayó.
 
 ## EL PANADERO VAGO
 
-- ¿Qué es un panadero que no quiere trabajar?
-- Un baguette
+- **P:** ¿Qué es un panadero que no quiere trabajar?
+- **R:** Un baguette
 
 ## LA INFANCIA PARISINA
 
-Si nunca fuiste a paris no tuviste in Francia
+Si nunca fuiste a París no tuviste in Francia
 
 ## LA ABUELA INFORMÁTICA
 
 - ¡Abuela! ¿Qué haces sentada delante del ordenador con lo ojos cerrados? 
-- Es que windows me puso que tenía que cerrar las pestañas.
+- Me puso que tenía que cerrar las pestañas.
 
 ## CUENTA CON...
 
@@ -175,7 +220,7 @@ Y el barco quedo precioso.
 
 - He descubierto un nuevo elemento.
 - ¿De verdad?
-- No, es bromo.
+- No, es Bromo.
 
 ## EL INTENTO DE LIGAR
 
@@ -199,7 +244,7 @@ Y el barco quedo precioso.
 
 ## EL RECLUTA SIN CONTRATO
 
-- ¡Recluta! ¡ Fiiiiiirme!
+- ¡Recluta! ¡Fiiiiiirme!
 - ¡Sargento! ¡No veo el booooooli!
 
 ## LA ESTRUCTURA DE LA TAZA
@@ -221,7 +266,7 @@ Y el barco quedo precioso.
 
 ## LA PRIMERA LEY DE LA AUTOMOVILÍSTICA
 
-Los automóviles ni se crean ni se destruyen, solo se Transformer 
+Los automóviles ni se crean ni se destruyen, solo se Transformer.
 
 ## HAZTE EL SUECO
 
@@ -276,7 +321,7 @@ Los automóviles ni se crean ni se destruyen, solo se Transformer
 
 ## STAR WARS, PELÍCULA POPULAR
 
-Yo creo que te tiene que gustar Star Wars por la fuerza.
+Star Wars te tiene que gustar por la fuerza.
 
 ## LA SOLEDAD
 
@@ -296,7 +341,7 @@ Yo creo que te tiene que gustar Star Wars por la fuerza.
 
 ## LA VISITA AL IKEA
 
-Si hay que ir al Ikea se va. Pero ir para nada estanteria.
+Si hay que ir al Ikea se va. Pero ir para nada estantería.
 
 ## LOS LADRONES DE VASOS
 
@@ -352,14 +397,14 @@ Si hay que ir al Ikea se va. Pero ir para nada estanteria.
 
 ## EL SALUDO
 
-- Hola, me llamo juan. ¿Y tú?
+- Hola, me llamo juan, ¿y tú?
 - No, yo no.
 
 ## EL HERCÚLEO AGUANTE DE RESPIRACIÓN
 
 - Un amigo mio ayer contenió 15 minutos la respiración bajo el agua.
 - Será *contuvo*.
-- No tío, sin tubo ni nada.
+- No, no, sin tubo ni nada.
 
 ## EL REENCUENTRO EN LA PIZZERÍA
 
@@ -408,7 +453,7 @@ Si hay que ir al Ikea se va. Pero ir para nada estanteria.
 
 ## EL PACIENTE CON PRISAS
 
-- Doctor, doctor. Dígame qué tengo. Rápido, que no tengo mucho tiempo.
+- Doctor, doctor, dígame qué tengo. Rápido, que no tengo mucho tiempo.
 - Ah. ¿Ya se lo han contado?
 
 ## EL PEGAMENTO, EL AVIÓN Y LA FAMILIA
