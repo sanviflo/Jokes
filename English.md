@@ -12,21 +12,25 @@ Write a short title for your joke and add it at the top. There are a few simple 
 
 # JOKES START HERE:
 
-## Holy Water
+## HOLY WATER
 
-- How do you make holy water? You boil the hell out of it.
+- **Q:** How do you make holy water? 
+- **A:** You boil the hell out of it.
 
 
-## Languages
+## LANGUAGES
 
-- What is the least spoken language in the world? Sign language
+- **Q:** What is the least spoken language in the world? 
+- **A:** Sign language
 
-## Vegetarian zombies
+## VEGETARIAN ZOMBIES
 
-- What does a zombie vegetarian eat? “GRRRAAAAAIIIINNNNS!”
+- **Q:** What does a zombie vegetarian eat? 
+- **A:** “GRRRAAAAAIIIINNNNS!”
 
-## Assassins
+## ASS-ASSINS
 
-- What has two butts and kills people? An assassin
+- **Q:** What has two butts and kills people?
+- **A:** An assassin
 
 
