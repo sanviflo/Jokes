@@ -533,3 +533,7 @@ El otro día soñé que estaba en un campo de cereales. Me desperté todo intrig
 
 - Paulo Coelho.
 - Coelho tú que yo no lo arcanso.
+
+## PINTURAS
+
+- ¿Qué es verde y huele como la pintura? Pintura verde
