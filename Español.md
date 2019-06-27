@@ -12,6 +12,11 @@ Escribe un título corto para tu chiste y añádelo encima de los demás. Sigue 
 
 # LOS CHISTES EMPIEZAN AQUÍ:
 
+## AIRE ACONDICIONADO
+
+- Encended el aire, pero no lo pongais muy alto.
+- Bueno, vale, pero ya esta casi tocando el techo.
+
 ## EL INFORMÁTICO AMARGADO
 
 - **P:** ¿Por qué la gente me trata como un objeto?
