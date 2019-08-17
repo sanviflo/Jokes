@@ -8,9 +8,43 @@ Escribe un título corto para tu chiste y añádelo encima de los demás. Sigue 
 - Evita dar contexto tanto como puedas. Deja sólo la esencia del chiste para que los lectores puedan completarlo como quieran.
   - Si el chiste es muy técnico, haz que el título ofrezca el contexto.
 - Haz el chiste lo más corto posible. Deja sólo lo necesario.
+- Sigue este formato para hacerlo sencillo de leer:
+  - Escribe la narración o descripción en frases cortas.
+  - Escribe las conversaciones como listas.
+  - En chistes de preguntas y respuestas, escribe **P:** y **R:** antes de su línea.
 - **¡Diviértete!**
 
 # LOS CHISTES EMPIEZAN AQUÍ:
+
+## LA ORDEN SILENCIOSA
+
+- Buenas, me gustaría entrar en su monasterio.
+- Vale, pero que sepa que somos una orden silenciosa. Sólo hablamos una vez cada quince años.
+
+*Pasan quince años en silencio.*
+
+- Hermano, han pasado quince años. ¿Deseas decir algo?
+- Sí, maestro. La sopa está sosa.
+- Comprendo, hermano.
+
+*Pasan otros quince años en silencio.*
+
+- Hermano, han pasado otros quince años. ¿Deseas decir algo?
+- Sí, maestro. Los muelles de la cama me hacen daño en la espalda.
+- Comprendo, hermano.
+
+*Pasan otros quince años en silencio.*
+
+- Hermano, han pasado otros quince años. ¿Deseas decir algo?
+- Sí, maestro. Creo que voy a dejar el monsterio. Me he dado cuenta de que esto no es lo mío.
+- Normal, si llevas quejándote desde el primer día.
+
+## EL CÁLCULO RENAL
+
+- Doctor, ¿que tengo?
+- Tiene usted piedras en el riñón.
+- ¿Es grave?
+- No, grave no. Es grava, gravilla, arenilla, son piedras.
 
 ## EL INFORMÁTICO AMARGADO
 
@@ -93,8 +127,7 @@ En un entierro:
 ## LA BOMBILLA EMBARAZADA
 
 - **P:** ¿Por qué la bombilla tiene panza?
-
-- **R: **Porque va dar a luz.
+- **R:** Porque va dar a luz.
 
 ## EL JARDINERO DESEMPLEADO
 
