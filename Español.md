@@ -46,6 +46,12 @@ Escribe un título corto para tu chiste y añádelo encima de los demás. Sigue 
 - ¿Es grave?
 - No, grave no. Es grava, gravilla, arenilla, son piedras.
 
+## AIRE ACONDICIONADO
+
+- Encended el aire, pero no lo pongais muy alto.
+- Bueno, vale, pero ya esta casi tocando el techo.
+>>>>>>> 1641d7eaea2fb587ad689df8fc8f7752760b7abf
+
 ## EL INFORMÁTICO AMARGADO
 
 - **P:** ¿Por qué la gente me trata como un objeto?
@@ -566,3 +572,7 @@ El otro día soñé que estaba en un campo de cereales. Me desperté todo intrig
 
 - Paulo Coelho.
 - Coelho tú que yo no lo arcanso.
+
+## PINTURAS
+
+- ¿Qué es verde y huele como la pintura? Pintura verde
