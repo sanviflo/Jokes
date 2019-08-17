@@ -50,7 +50,6 @@ Escribe un título corto para tu chiste y añádelo encima de los demás. Sigue 
 
 - Encended el aire, pero no lo pongais muy alto.
 - Bueno, vale, pero ya esta casi tocando el techo.
->>>>>>> 1641d7eaea2fb587ad689df8fc8f7752760b7abf
 
 ## EL INFORMÁTICO AMARGADO
 
