@@ -19,6 +19,7 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 
 # ÍNDICE
 
+- [EL CHOCOBOLLO] (#id101)
 - [EL MUELLE](#id100)
 - [LA ORDEN SILENCIOSA](#id99)
 - [EL CÁLCULO RENAL](#id98)
@@ -122,9 +123,39 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 
 # LOS CHISTES EMPIEZAN AQUÍ:
 
+<div id='id101'/>
+
+## EL CHOCOBOLLO
+
+*Chiste de dos partes, contar la primera parte a la inocente víctima como si de un chiste normal se tratase.*
+
+Érase una vez una niña paseando por la playa en su bicicleta. 
+En la parte de delante de la bicicleta, la niña lleva un cestito, dentro del cual reposa un delicioso Chocobollo. 
+En cierto momento, la niña pasa por un bache, y el Chocobollo se cae al suelo.
+La niña, enfadada, para su bicicleta, recoge el aperitivo, y le dice:
+-Chocobollo, como te caigas otra vez te tiro al mar.
+Y tras decir esto, vuelve a retomar su viaje. A los 5 minutos, se vuelve a topar con un bache, y el Chocobollo se vuelve a caer al suelo.
+La niña detiene su bicicleta, recoge el aperitivo, y le dice:
+-Chocobollo, como te vuelvas a caer otra vez, te tiro al mar.
+Tras decir esto, vuelve a subirse a la bicicleta. 5 minutos después, otro bache, el Chocobollo se vuelve a caer al suelo.
+La niña recoge el Chocobollo, y lo tira al mar.
+
+*Esperar a que la víctima exprese su descontento hacia el chiste, y después de que haya pasado suficiente tiempo para que se olvide de este (ayuda contar otros chistes malos de por medio), proceder a contar la segunda parte.* 
+
+Una vez, una pareja estaba en un crucero de vacaciones. El novio decide proponerse a su novia, dándole un precioso anillo de diamantes. 
+La novia decide aceptar bajo una condición: tira el anillo de diamantes al agua, y le dice al hombre:
+-Si encuentras el anillo en las próximas 24 horas, me casaré contigo.
+El hombre procede a bucear durante las próximas 24 horas, pero no logra encontrar el anillo, así que vuelve a la mujer y se lo cuenta.
+Resignados, la pareja se va a un restaurante, donde el hombre planea volver a proponerse.
+La mujer pide unos jamones al vapor y el hombre pide una langosta al horno.
+La comida llega, y la pareja va a empezar a comer. Sin embargo, al abrir la langosta, el hombre encuentra algo...
+
+El chocobollo.
+
 <div id='id100'/>
 
 ## EL MUELLE
+
 Va un barco a un muelle y rebota.
 
 <div id='id99'/>
