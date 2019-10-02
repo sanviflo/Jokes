@@ -280,6 +280,11 @@ Y el barco quedo precioso.
 - Hace frío.
 - Vete a la esquina, está a 90 grados.
 
+## EL CARACOL
+- **P:** Esto va un caracol y derrapa, ¿te ha hecho gracia?
+- **R:** No
+- Pues a la vieja que atropelló tampoco
+
 ## EL RECLUTA SIN CONTRATO
 
 - ¡Recluta! ¡Fiiiiiirme!
