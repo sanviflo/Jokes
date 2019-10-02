@@ -67,6 +67,11 @@ Escribe un título corto para tu chiste y añádelo encima de los demás. Sigue 
 - Niño, echa la Primitiva.
 - ¡Abuela, a la puta calle!
 
+## EL CARACOL
+- **P** Esto va un caracol y derrapa. ¿Te ha hecho gracia?
+- **R** No
+- Pues la vieja a la que atropelló tampoco.
+
 ## EL PIZZERO RICO
 
 - Pizzería La Italiana, ¿dígame?
