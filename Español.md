@@ -17,7 +17,7 @@ Escribe un título corto para tu chiste y añádelo encima de los demás. Sigue 
 # LOS CHISTES EMPIEZAN AQUÍ:
 
 ## EL MUELLE
-- Esto va un barco a un muelle y rebota
+- Esto va un barco a un muelle y rebota.
 
 ## LA ORDEN SILENCIOSA
 
