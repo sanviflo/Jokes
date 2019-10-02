@@ -16,6 +16,11 @@ Escribe un título corto para tu chiste y añádelo encima de los demás. Sigue 
 
 # LOS CHISTES EMPIEZAN AQUÍ:
 
+## EL CARACOL
+- **P** Esto va un caracol y derrapa. ¿Te ha hecho gracia?
+- **R** No
+- Pues la vieja a la que atropelló tampoco.
+
 ## LA ORDEN SILENCIOSA
 
 - Buenas, me gustaría entrar en su monasterio.
@@ -66,11 +71,6 @@ Escribe un título corto para tu chiste y añádelo encima de los demás. Sigue 
 
 - Niño, echa la Primitiva.
 - ¡Abuela, a la puta calle!
-
-## EL CARACOL
-- **P** Esto va un caracol y derrapa. ¿Te ha hecho gracia?
-- **R** No
-- Pues la vieja a la que atropelló tampoco.
 
 ## EL PIZZERO RICO
 
